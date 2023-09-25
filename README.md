@@ -22,7 +22,7 @@ If you're still reading me, why don't we connect?</h4>
 <br>
 <br/>
 
-<p>I'm currently Working on real time communication application. I am constructing it with Socket.IO , React Native, StoryBook , Tailwind and React JS.</p>
+<p style="text-align:center;">I'm currently Working on real time communication application. I am constructing it with Socket.IO , React Native, StoryBook , Tailwind and React JS.</p>
 
 ## Technologies
 
