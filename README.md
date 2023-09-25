@@ -16,7 +16,7 @@ If you're still reading me, why don't we connect?</h4>
   <img align="left" alt="Umair's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/umair-anser-4baa37120/">
-  <img align="right" alt="Umair's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Umair's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 	</div>
 <br>
