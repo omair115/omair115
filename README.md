@@ -22,13 +22,7 @@ If you're still reading me, why don't we connect?</h4>
 <br>
 <br/>
 
-
-I'm currently Working on real time communication application. I am constructing it with Socket.IO , React Native, StoryBook , Tailwind and React JS.
-
-
-<div style="text-align:center;"><img align="center" height="100%" width="100%" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  /></div>
-
-
+<p>I'm currently Working on real time communication application. I am constructing it with Socket.IO , React Native, StoryBook , Tailwind and React JS.</p>
 
 ## Technologies
 
